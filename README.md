@@ -9,7 +9,7 @@ This repository provides the official PyTorch implementation for the **PI-EEGfor
 The codebase allows for training and evaluation on the following classification task:
 
 * **On the Bimanual Movement Dataset:**
-    ***Movement Transition Prediction:** Binary classification (Go vs. No-go) to predict an impending unilateral wrist extension during a steady bimanual contraction[cite: 62, 282]. [cite_start]The prediction uses EEG data from a 400 ms window (500 ms to 100 ms) before the actual movement begins[cite: 353].
+    ***Movement Transition Prediction:** Binary classification (Go vs. No-go) to predict an impending unilateral wrist extension during a steady bimanual contraction. The prediction uses EEG data from a 400 ms window (500 ms to 100 ms) before the actual movement begins.
 
 ## Related Paper
 
@@ -21,6 +21,6 @@ The model and experiments are described in our paper:
 ## Contact
 
 For questions about the paper or code, please use GitHub Issues or contact my email: hp375169@gmail.com, or contact the corresponding author mentioned in our paper:
-* [cite_start]**Ciaran McGeady:** `c.mcgeady@imperial.ac.uk`
-* [cite_start]**Chong Li:** `chongli@tsinghua.edu.cn`
-* [cite_start]**Dario Farina:** `d.farina@imperial.ac.uk`
+* **Ciaran McGeady:** `c.mcgeady@imperial.ac.uk`
+* **Chong Li:** `chongli@tsinghua.edu.cn`
+* **Dario Farina:** `d.farina@imperial.ac.uk`
