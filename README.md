@@ -15,8 +15,7 @@ The codebase allows for training and evaluation on the following classification 
 
 The model and experiments are described in our paper:
 **Physiology-Inspired EEG Transformer for Predicting Movement Transitions in Bimanual Tasks**
-
-> **Abstract:** Human-machine interfaces (HMIs) are widely used in motor rehabilitation and augmentation. Forecasting movement transitions is crucial for system safety and reactivity, especially when anticipating human motor intentions in response to sudden perturbations. In this study, we investigated pre-movement neural signatures preceding sudden movement transitions during ongoing bimanual tasks. Informed by these findings, we propose a physiology-informed EEG Transformer (PI-EEGformer). An EEG dataset was collected from a bimanual task where one hand had to switch motor states in response to unexpected cues. The PI-EEGformer achieved an average accuracy of 0.912 in inter-subject tests and 0.829 in cross-subject tests, outperforming seven state-of-the-art models. These results demonstrate that EEG neural signatures can predict sudden movement transitions and that the PI-EEGformer enables accurate predictions, contributing to more responsive and realistic HMI systems.
+Which was accepted by IEEE JBHI on October 14th.
 
 ## Contact
 
